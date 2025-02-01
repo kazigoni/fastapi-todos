@@ -1,2 +1,3 @@
 fastsapi
 uvicorn
+tortoise-orm
